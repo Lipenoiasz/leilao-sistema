@@ -12,6 +12,7 @@ com banco de dados para persistência de dados.
 
 Tecnologias Utilizadas:
 
+
 Linguagem: Java
 Banco de Dados: MySQL
 Ferramenta de Desenvolvimento: NetBeans
