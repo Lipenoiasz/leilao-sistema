@@ -42,5 +42,4 @@ public class conectaDAO {
             ex.printStackTrace();
         }
     }
-    
 }
