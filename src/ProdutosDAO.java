@@ -109,6 +109,5 @@ public class ProdutosDAO {
             System.out.println("erro: " + ex.getMessage());
             return null;
         }
-        
     }
 }
