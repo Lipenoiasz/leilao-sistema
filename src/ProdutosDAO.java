@@ -4,7 +4,7 @@ import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.sql.SQLException;
 
-public class ProdutosDAO {
+public class ProdutosDAO { 
 
     Connection conn;
     PreparedStatement prep;

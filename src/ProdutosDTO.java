@@ -4,7 +4,7 @@ public class ProdutosDTO {
     private Integer valor;
     private String status;
 
-    public Integer getId() {
+    public Integer getId() { 
         return id;
     }
 
