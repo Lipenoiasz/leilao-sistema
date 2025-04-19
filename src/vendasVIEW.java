@@ -33,7 +33,7 @@ public class vendasVIEW extends javax.swing.JFrame {
             JOptionPane.showMessageDialog(null, "Erro ao listar produtos: " + e.getMessage(), "Erro", JOptionPane.ERROR_MESSAGE);
         }
     }
-
+ 
     /**
      * Creates new form vendasVIEW
      */
